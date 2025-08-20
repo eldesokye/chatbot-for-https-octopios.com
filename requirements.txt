@@ -1,0 +1,26 @@
+requests
+beautifulsoup4
+selenium
+lxml
+pandas
+numpy
+json5
+openai
+langchain
+sentence-transformers
+streamlit
+flask
+python-dotenv
+schedule
+fake-useragent
+nltk
+scikit-learn
+chromadb
+pypdf
+python-dotenv
+pinecone[grpc]
+langchain-pinecone
+langchain-community
+langchain-openai
+langchain-experimental
+e .

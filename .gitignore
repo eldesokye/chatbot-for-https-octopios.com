@@ -25,6 +25,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+chatbot/
+chatbot11/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
