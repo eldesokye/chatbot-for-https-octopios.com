@@ -1,0 +1,9 @@
+product_id,name,category,price,description,weather_suitable,style,stock
+P001,Summer Dress,Clothing,59.99,Light and breezy summer dress perfect for hot weather,hot,casual,25
+P002,Winter Coat,Clothing,129.99,Warm winter coat with insulation for cold temperatures,cold,formal,15
+P003,Running Shoes,Footwear,89.99,Comfortable running shoes for active lifestyle,any,sport,30
+P004,Casual T-Shirt,Clothing,19.99,Casual cotton t-shirt for everyday wear,warm,casual,50
+P005,Rain Jacket,Clothing,79.99,Waterproof jacket to keep you dry in rain,rainy,outdoor,20
+P006,Sunglasses,Accessories,39.99,Stylish sunglasses for sunny days,sunny,fashion,40
+P007,Warm Sweater,Clothing,69.99,Cozy wool sweater for chilly weather,cold,casual,35
+P008,Beach Hat,Accessories,24.99,Wide-brim hat for beach protection,sunny,casual,28

@@ -1,0 +1,4 @@
+customer_id,name,location,previous_purchases,style_preference,size_preference,budget_range
+C001,John,New York,"P001,P006",casual,M,50-100
+C002,Sarah,London,"P002,P007",formal,S,100-200
+C003,Mike,Tokyo,"P003,P004",sport,L,30-80
